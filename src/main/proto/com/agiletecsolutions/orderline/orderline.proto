@@ -1,0 +1,6 @@
+syntax = "proto3"
+package com.agiletecsolutions.orderline.proto;
+
+message Orderline {
+  int32 id = 1; // orderline uuid
+}
